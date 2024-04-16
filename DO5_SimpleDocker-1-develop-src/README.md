@@ -4,7 +4,7 @@ Introduction to docker. Developing a simple docker image for your own server.
 
 ## Contents
 
-1. [Chapter III](#chapter-iii) \
+1. [Chapter I](#chapter-i) \
     3.1. [Ready-made docker](#part-1-ready-made-docker) \
     3.2. [Operations with container](#part-2-operations-with-container) \
     3.3. [Mini web server](#part-3-mini-web-server) \
@@ -124,6 +124,3 @@ Why not try experimenting with deploying a project consisting of several docker 
 ##### Stop all running containers.
 ##### Build and run the project with the `docker-compose build` and `docker-compose up` commands.
 ##### Check that the browser returns the page you wrote on *localhost:80* as before.
-
-
-💡 [Tap here](https://forms.yandex.ru/cloud/6418195450569020f1f159c4/) **to leave your feedback on the project**. Product Team really tries to make your educational experience better.
